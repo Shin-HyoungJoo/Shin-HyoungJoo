@@ -3,10 +3,8 @@
 ### 👋 백엔드 코린이 신형주의 블로그입니다 
 다양한 환경에서 코드를 접해보고 싶고, 더 좋은 코드로 바꿔가며 성장하는 개발자가 되고 싶습니다.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-HyoungJoo&show_icons=true&theme=radical)
-
-● Language: 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    ● Language: 
 <img src="https://img.shields.io/badge/JAVA-FCC624?style=for-the-badge">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
 
@@ -21,6 +19,13 @@
 ● Other :
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&fontColor=white">
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-HyoungJoo&show_icons=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-HyoungJoo&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
 
 | Plugin | README |
 | ------ | ------ |
