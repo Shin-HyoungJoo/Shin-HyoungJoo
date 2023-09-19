@@ -21,7 +21,6 @@
 ● Other :
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&fontColor=white">
-
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-HyoungJoo&show_icons=true)
