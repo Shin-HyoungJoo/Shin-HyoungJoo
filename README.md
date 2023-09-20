@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=20&desc=Shin-HyoungJoo's%20GitHub&descAlign=70&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=20&desc=Shin-HyoungJoo's%20GitHub&descAlign=70&descAlignY=44)
 <div style="text-align: left;">
 
 ### 👋 백엔드 코린이 신형주의 블로그입니다 
