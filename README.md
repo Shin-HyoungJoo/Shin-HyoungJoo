@@ -6,21 +6,27 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 
-● Language: 
+● Tech Stack: <br/>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/js-E34F26?style=for-the-badge&logo=javascript&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/JAVA-FCC624?style=for-the-badge">
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
-
-● Backend :
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Mysql-003545?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/RESTful_API-4053D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=jpa&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Querydsl-0285C9?style=for-the-badge&logo=querydsl&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=jpa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Querydsl-0285C9?style=for-the-badge&logo=querydsl&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/jsp-FCC624?style=for-the-badge&logo=jsp&logoColor=white"/>
+<img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=black"/>
 
 ● Other :
+<img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&fontColor=white">
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-HyoungJoo&show_icons=true)
