@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=black"/>
 
-● Other :
+● Other : <br/>
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
