@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=20&desc=Shin-HyoungJoo's%20GitHub&descAlign=70&descAlignY=44)
 <div style="text-align: left;">
 
-### 👋 백엔드 코린이 신형주의 블로그입니다 
+### 👋  코린이 신형주의 깃허브입니다 
 다양한 환경에서 코드를 접해보고 싶고, 더 좋은 코드로 바꿔가며 성장하는 개발자가 되고 싶습니다.
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
