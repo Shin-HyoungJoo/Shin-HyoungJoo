@@ -37,7 +37,7 @@
 
 | Plugin | README |
 | ------ | ------ |
-| Velog | https://velog.io/@gbz3267 |
+| tistory | https://velog.io/@gbz3267 |
 | GitHub | https://github.com/Shin-HyoungJoo |
 </div>
 
