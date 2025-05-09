@@ -37,11 +37,11 @@
 
 | Plugin | README |
 | ------ | ------ |
-| tistory | https://velog.io/@gbz3267 |
+| Tistory | https://velog.io/@gbz3267 |
 | GitHub | https://github.com/Shin-HyoungJoo |
 </div>
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShin-HyoungJoo&count_bg=%239AE065&title_bg=%23373737&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hitmeup-backend-593087166771.asia-northeast1.run.app"><img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%253A%252F%252Fgithub.com%252FShin-HyoungJoo&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&title_bg=555555&count_bg=79c83d&edge_flat=false" alt="hits"/></a>
 </p>
 
